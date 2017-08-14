@@ -35,7 +35,8 @@
     "yargs": "^3.14.0"
   },
   "scripts": {
-    "test": "gulp lint unittestcli externaltest"
+    "test": "gulp lint unittestcli externaltest",
+    "start": "gulp server" 
   },
   "repository": {
     "type": "git",
